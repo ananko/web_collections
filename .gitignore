@@ -1,5 +1,8 @@
+__pycache__
 venv
 .idea
+.project
+.pydevproject
 
 *.pyc
-
+*.sqlite3
